@@ -3,7 +3,7 @@ This is a file encryption and decryption tool. Unlike any other file encryption 
 
 ## How to use the tool
 
-`Step 1`. Download the OMFE.exe file and run it.
+`Step 1`. Download the OMFE.exe file and run it. If the exe gives you a Java Runtime Environment required error even while you have JDK, then probably you are using openjdk. In such case please use omfe.jar file and run it.
 
 `Step 2`. Prepare a /decrypt folder manually in any path of your system. You need to places your files or folders into this path-to/decrypt/.
 
@@ -27,6 +27,8 @@ I successful encrypted 700MB of folder size (aggressively) and maxed out the CPU
 Memory usage: 731MB used by open-jdk process.
 Max disk read/write rate: 3.1 MB/s.
 
-CheckSum (SHA256) of OMFE.exe => 33a999fee9ddaafdfb3543a892bd9be256f811c7c90f6943759a5dbc1d264648
+CheckSum (SHA256) of OMFE.exe => 876c008a2b5fb9bb43dc51044e8aab8b1366a16696f1ae463c7bf5609fb8052f
+CheckSum (SHA256) of omfe.jar => dc6e447c6bf177466ac2defde241a79429724dca2badef9522358cedca7c620e
+
 
 Follow me if you liked it.
