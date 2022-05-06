@@ -27,4 +27,6 @@ I successful encrypted 700MB of folder size (aggressively) and maxed out the CPU
 Memory usage: 731MB used by open-jdk process.
 Max disk read/write rate: 3.1 MB/s.
 
+CheckSum (SHA256) of OMFE.exe => 33a999fee9ddaafdfb3543a892bd9be256f811c7c90f6943759a5dbc1d264648
+
 Follow me if you liked it.
