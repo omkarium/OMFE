@@ -30,5 +30,6 @@ Max disk read/write rate: 3.1 MB/s.
 CheckSum (SHA256) of OMFE.exe => 876c008a2b5fb9bb43dc51044e8aab8b1366a16696f1ae463c7bf5609fb8052f
 CheckSum (SHA256) of omfe.jar => dc6e447c6bf177466ac2defde241a79429724dca2badef9522358cedca7c620e
 
+[Here are the source files](https://github.com/leogitpub/omfe-sources)
 
 Follow me if you liked it.
